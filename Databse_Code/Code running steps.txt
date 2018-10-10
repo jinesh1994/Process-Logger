@@ -1,0 +1,7 @@
+1) Copy all java files in project.
+2) Add externel jar which is of sqlite-jdbc driver.
+3) Then you can run project.
+
+Note: Database will be created in project folder or with jar file.
+Note: Project will build successfully irrespective of externel jar file is added or not,
+	but if it will not run successfully if externel jar is not added.
